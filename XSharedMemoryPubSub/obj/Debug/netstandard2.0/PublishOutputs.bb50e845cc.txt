@@ -1,0 +1,3 @@
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\bin\Debug\netstandard2.0\publish\XSharedMemoryPubSub.dll
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\bin\Debug\netstandard2.0\publish\XSharedMemoryPubSub.deps.json
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\bin\Debug\netstandard2.0\publish\XSharedMemoryPubSub.pdb

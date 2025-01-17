@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMe+Nbeul28=",
+  "success": true,
+  "projectFilePath": "F:\\vs2project\\XSharedMemoryPubSub\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xsharedmemorypubsub\\1.0.0\\xsharedmemorypubsub.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

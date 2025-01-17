@@ -1,0 +1,10 @@
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\bin\Debug\netstandard2.0\XSharedMemoryPubSub.deps.json
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\bin\Debug\netstandard2.0\XSharedMemoryPubSub.dll
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\bin\Debug\netstandard2.0\XSharedMemoryPubSub.pdb
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\obj\Debug\netstandard2.0\XSharedMemoryPubSub.csproj.AssemblyReference.cache
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\obj\Debug\netstandard2.0\XSharedMemoryPubSub.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\obj\Debug\netstandard2.0\XSharedMemoryPubSub.AssemblyInfoInputs.cache
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\obj\Debug\netstandard2.0\XSharedMemoryPubSub.AssemblyInfo.cs
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\obj\Debug\netstandard2.0\XSharedMemoryPubSub.csproj.CoreCompileInputs.cache
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\obj\Debug\netstandard2.0\XSharedMemoryPubSub.dll
+F:\vs2project\XSharedMemoryPubSub\XSharedMemoryPubSub\obj\Debug\netstandard2.0\XSharedMemoryPubSub.pdb
